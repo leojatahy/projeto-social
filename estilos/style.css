@@ -28,6 +28,7 @@ main {
     width: 311px;
     transform: translate(-50%, -50%);
     background: url('../imagens/frame-iphone.png') no-repeat;
+    
 }
 iframe#tela {
     position: relative;
